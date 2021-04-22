@@ -15,8 +15,9 @@ and work as a web developer since 2015
   <a href="https://www.instagram.com/pjohn13_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
   
-    <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-
+  <a href="https://www.instagram.com/pjohn13_/" alt="Instagram">
+     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/>
+  </a>
 </p>  
 
 <p align="left">
