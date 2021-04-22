@@ -9,7 +9,7 @@ and work as a web developer since 2015
   <a href="https://www.linkedin.com/in/arikardnoir" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://www.facebook.com/ARIKARDNOIR/" alt="Facebook">
+  <a href="https://www.facebook.com/pjohn13a" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
   <a href="https://www.instagram.com/pjohn13_/" alt="Instagram">
