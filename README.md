@@ -21,5 +21,5 @@ and work as a web developer since 2015
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode,phpStorm, MYSQLWorkbench, Postman</strong>
+  💼 Tools: <strong>VSCode,phpStorm, HeidiSQL, Postman</strong>
 </p>
