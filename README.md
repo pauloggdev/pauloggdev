@@ -1,5 +1,3 @@
-### Hi👋
-
 <p>My name is Paulo Gonçalo G. João, graduated in computer science💻,<br>
 and work as a web developer since 2015
  </p>
@@ -15,8 +13,8 @@ and work as a web developer since 2015
   <a href="https://www.instagram.com/pjohn13_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
   
-  <a href="https://www.instagram.com/pjohn13_/" alt="Instagram">
-     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/>
+  <a href="mailto:pauloggjoao@gmail.com" alt="Instagram">
+     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pauloggjoao@gmail.com"/>
   </a>
 </p>  
 
