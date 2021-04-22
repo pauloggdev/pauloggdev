@@ -4,9 +4,17 @@
 and work as a web developer since 2015
  </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arikardnoir" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://www.facebook.com/ARIKARDNOIR/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="https://www.instagram.com/pjohn13_/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
 <p align="left">
   🦄 Skills: <strong>HTML, CSS3,Javascript (VueJS), PHP (Laravel 5+)</strong>
