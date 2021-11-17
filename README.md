@@ -19,7 +19,7 @@ and work as a web developer since 2015
 </p>  
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS3,Javascript (VueJS), PHP (Laravel 5+)</strong>
+  🦄 Skills: <strong>HTML, CSS3,Javascript, VueJS, PHP (Laravel 5+)</strong>
 </p>
 
 <p align="left">
