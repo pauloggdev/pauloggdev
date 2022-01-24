@@ -1,5 +1,5 @@
-<p>My name is Paulo Gonçalo G. João, graduated in computer science💻,<br>
-and work as a web developer since 2015
+<p>Sou Paulo Gonçalo G. João, graduado em ciência da computação💻,<br>
+e trabalho como desenvolvedor web desde 2015.
  </p>
 
 
