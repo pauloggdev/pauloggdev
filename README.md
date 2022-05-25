@@ -19,7 +19,7 @@ e trabalho como desenvolvedor web desde 2015.
 </p>  
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3,Javascript, VueJS, PHP (Laravel 5+)</strong>
+  🦄 Skills: <strong>HTML5|CSS3|Javascript|VueJS|PHP (Laravel 5+)|DDD|clean architecture</strong>
 </p>
 
 <p align="left">
