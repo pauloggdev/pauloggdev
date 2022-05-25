@@ -19,9 +19,9 @@ e trabalho como desenvolvedor web desde 2015.
 </p>  
 
 <p align="left">
-  🦄 Skills: <strong>HTML5|CSS3|Javascript|VueJS|PHP (Laravel 5+)|DDD|clean architecture</strong>
+  🦄 Skills: <strong>HTML5|CSS3|Javascript|VueJS|PHP (Laravel 5+)|DDD|Clean Architecture</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode,phpStorm, HeidiSQL, Postman</strong>
+  💼 Tools: <strong>VSCode|phpStorm|HeidiSQL|Postman</strong>
 </p>
