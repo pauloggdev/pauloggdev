@@ -1,8 +1,3 @@
-<p>Sou Paulo Gonçalo G. João, graduado em ciência da computação💻,<br>
-e trabalho como desenvolvedor web desde 2015.
- </p>
-
-
 <p align="left">
   <a href="https://www.linkedin.com/in/pjohn13/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
