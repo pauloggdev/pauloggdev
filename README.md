@@ -14,5 +14,5 @@
 </p>  
 
 <p align="left">
-  🦄 Skills: <strong>HTML5|CSS3|Javascript|VueJS|PHP (Laravel 5+)|DDD|Clean Architecture</strong>
+  🦄 Skills: <strong>PHP|Laravel|VueJS|Javascript|HTML5|CSS3|DDD|Clean Architecture</strong>
 </p>
